@@ -2,6 +2,8 @@ After running the code it will ask for the inputs as below;
 
 
 FOR TESTCASE 1
+
+
 Enter number of points (n): 4
 Enter minimum number of points to solve (k): 3
 Enter x for point 1: 1
@@ -27,6 +29,8 @@ The constant term (c) is: 3
 
 
 FOR TESTCASE 2
+
+
 Enter number of points (n): 9
 Enter minimum number of points to solve (k): 6
 Enter x for point 1: 1
