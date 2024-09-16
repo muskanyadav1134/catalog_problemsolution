@@ -1,4 +1,4 @@
-After running the code it will ask for the inputs as below;
+After running the code it will ask for the inputs as below:
 
 
 FOR TESTCASE 1
@@ -24,7 +24,10 @@ a_1 = 0
 a_0 = 3\
 
 OUTPUT 1
+
 The constant term (c) is: 3
+
+
 
 
 
@@ -70,5 +73,6 @@ a_0 = 3.04733e+09
 
 
 OUTPUT 2
+
 The constant term (c) is: 3.04733e+09
 
